@@ -7,7 +7,6 @@ export function ChallengeBox() {
 
     const hasActiveChallenge = true;
 
-
     return (
         <div className={styles.challengeBoxContainer}>
             { activeChallenge ? (
@@ -45,13 +44,6 @@ export function ChallengeBox() {
                     </p>
                     </div>
                 )}
-
-
-
-
-
-
-
         </div>
     )
 }
