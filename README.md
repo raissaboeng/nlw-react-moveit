@@ -3,7 +3,6 @@
 <img src=".github/moveit.gif">
 </br>
 
-
 ### :mag: Sobre o projeto
 
 A aplicação move.it foi desenvolvida na semana NLW#4 da @rocketseat na trilha React e consiste na criação de uma página para uso da técnica de pomodoro. Um contador de 25 minutos que deve ser utilizado para manter foco em sua tarefa, seja estudar ou trabalhar, e um intervalo de 5 minutos para você cumprir alguma tarefa e relaxar. Conforme for completando as tarefas, ganhará pontos de experiência para subir de nível, trazendo inspiração dos games. Essas atividades foram pensadas para as pessoas que passam muito tempo trabalhando em frente aos computadores e as atividades retiradas de fontes confiáveis para este fim. Servem para exercitar-se e relaxar já que ficar muito tempo sentado pode ocasionar diversos problemas futuros de saúde. 
@@ -37,8 +36,6 @@ $ yarn start
 
 ou acesse: https://moveit-two-dusky.vercel.app/
 
-<br>
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -55,6 +52,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [] Criar sidebar com opção home e ranking; 
 - [] Criar ranking de usuários e suas pontuações;
 - [] Compartilhar pontuação no twitter, instagram e outras redes com uma imagem personalizada.
+
+<br>
 
 <img src=".github/Wallpaper.png">
 </br>
