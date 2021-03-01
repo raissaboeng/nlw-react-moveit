@@ -33,7 +33,11 @@ $ yarn install
 $ yarn start
 ```
 
+<<<<<<< HEAD
 ou acesse no vercel: https://moveit-two-dusky.vercel.app/
+=======
+ou acesse: https://moveit-two-dusky.vercel.app/
+>>>>>>> 8c722544a44597f9f403b3d9c0199da603e7a497
 
 ### 🛠 Tecnologias
 
