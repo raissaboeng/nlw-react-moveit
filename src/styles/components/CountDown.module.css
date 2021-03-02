@@ -51,8 +51,9 @@
     border: 0;
     border-radius: 5px;
 
-    background: var(--blue);
+    background: var(--primary);
     color: var(--white);
+    outline-color: currentColor;
 
     font-size: 1.25rem;
     font-weight: 600;
@@ -61,7 +62,8 @@
 }
 
 .countdownButton:not(:disabled):hover {
-    background: var(--blue-dark);
+    background: var(--secondary);
+    border: 0;
 }
 
 .countdownButtonActive {

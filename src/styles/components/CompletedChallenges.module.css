@@ -16,4 +16,8 @@
 
 .completedChallengesContainer span:last-child {
     font-size: 1.5rem;
+    padding: 0 0.3rem;
+    color: var(--primary);
+    border: 3px solid var(--primary);
+    border-radius: 50%;
 }

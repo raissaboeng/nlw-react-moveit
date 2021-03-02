@@ -7,6 +7,7 @@
     width: 5.5rem;
     height: 5.5rem;
     border-radius: 50%;
+    border: 4px solid var(--primary);
 }
 
 .profileContainer div {
@@ -16,7 +17,7 @@
 .profileContainer div strong {
     font-size: 1.5rem;
     font-weight: 600;
-    color: var(--title);
+    color: var(--primary);
 }
 
 .profileContainer div p {

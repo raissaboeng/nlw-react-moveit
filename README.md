@@ -46,13 +46,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### :bulb: Melhorias
-- [] Layout para mobile;
-- [] Fazer aplicação com PWA e next;
-- [] Tema dark e novas cores;
-- [] Criar página de login com oauth pelo github;
-- [] Criar sidebar com opção home e ranking; 
-- [] Criar ranking de usuários e suas pontuações;
-- [] Compartilhar pontuação no twitter, instagram e outras redes com uma imagem personalizada.
+- [ ] Layout para mobile;
+- [ ] Fazer aplicação com PWA e next;
+- [ ] Tema dark;
+- [x] Novas cores;
+- [ ] Criar página de login com oauth pelo github;
+- [ ] Criar sidebar com opção home e ranking; 
+- [ ] Criar ranking de usuários e suas pontuações;
+- [ ] Compartilhar pontuação no twitter, instagram e outras redes com uma imagem personalizada.
 
 <br>
 

@@ -27,7 +27,6 @@
     line-height: 1.4;
 }
 
-
 .challengeNotActive p {
     display: flex;
     flex-direction: column;
@@ -50,7 +49,7 @@
 }
 
 .challengeActive header {
-    color: var(--blue);
+    color: var(--primary);
     font-weight: 600;
     font-size: 1.25rem;
     padding: 0 2rem 1.5rem;
